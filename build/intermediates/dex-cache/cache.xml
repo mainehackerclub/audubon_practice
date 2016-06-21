@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/denis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e7575c6cbbad7e334be5cf91fef934beba0dfc1c.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_9483a3c827869bde46f507be577fc4133683d315.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_981517424ce6b8e554d7998ecc00d32a7cde791c.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1820afa4d704e4c3d57c8d78b22e0886c1c61ad0.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_779cd95be6c475493bebaadc552f1b3139643da0.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a769bc9fa9931787910b127b3bd515592432c191">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_28c588f4ac449e1e94514204855fa2346c5125c4.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f73e9329042219bc7726d1c586ae58866506f450.jar" />
+    </item>
+    <item
+        jar="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e5bd50555ff66241d9d7d867789e9cae23c1edd">
+        <dex dex="/home/denis/AndroidStudioProjects/Audubonpractice/app/build/intermediates/pre-dexed/debug/instant-run_ae14a5ffc3004ffc8b91855e2d28f639f9bfa34c.jar" />
+    </item>
+
+</items>
